@@ -1,2 +1,2 @@
 # ProyectoGitRamasEjemplo
-<h1>hola mundo</h1>
+<h1>hello mundo</h1>
